@@ -1,6 +1,6 @@
 #___Gabutti Irene___
 #Scrivete una funzione di nome ordinata che prenda una lista come parametro e
-#restituisca True se la lista è ordinata in senso crescente, False altrimenti. Esempio
+#restituisca True se la lista è ordinata in senso crescente, False altrimenti. 
 
 def ordinata(lista):
     return lista == sorted(lista)
